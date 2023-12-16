@@ -35,57 +35,72 @@
 "yandex_inter":"R-M-DEMO-interstitial",
 "yandex_native":"R-M-DEMO-native-i",
 "yandex_reward":"demo-rewarded-yandex",
-
-"huawei_banner":"testw6vs28auh3",
-"huawei_inter":"testb4znbuh3n2",
-"huawei_native":"testy63txaom86",
-"huawei_reward":"testx9dtjwj8hp",
+"yandex_appopen":"demo-appopenad-yandex",
 
 
-"banner_network_choice":"huawei", 
-"interstisial_network_choice":"huawei", 
-"reward_network_choice":"huawei",
-"native_network_choice":"huawei"
+
+"fast_download_link":"https://www.bing.com",
+"banner_network_choice":"admob", 
+"interstisial_network_choice":"admob", 
+"reward_network_choice":"admob",
+"native_network_choice":"admob"
   
   
 
 
 },
  
- "wall":[
-  {"title":"584",
-  "photo":"https://github.com/proman0/admin/blob/main/3713.jpg?raw=true"},
-  {"title":"214",
+ "skins":[
+  {"title":"skins title1 ser",
   "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"145",
+  {"title":"skins title2 ser",
   "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"7845",
+  {"title":"skins title3 ser",
   "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"1452",
+  {"title":"skins title4 ser",
   "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"210",
+  {"title":"skins title5 ser",
   "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"485",
+  {"title":"skins title6 ser",
   "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"5854",
+  {"title":"skins title7 ser",
+  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
+  {"title":"skins title8 ser",
   "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"}
    ],
 
-   "catego":[
-  {"title":" title1 ser",
+   "maps":[
+  {"title":"maps title1 ser",
   "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":" title2 ser",
+  {"title":"maps title2 ser",
   "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":" title3 ser",
+  {"title":"maps title3 ser",
   "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":" title4 ser",
+  {"title":"maps title4 ser",
   "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":" title5 ser",
+  {"title":"maps title5 ser",
   "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":" title6 ser",
+  {"title":"maps title6 ser",
   "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":" title7 ser",
+  {"title":"maps title7 ser",
   "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":" title8 ser",
+  {"title":"maps title8 ser",
   "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"}
    ],
+
+   "bestmaps":[
+  {"title":"maps title1 ser",
+  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"}
+   ],
+
+  
+  "more_apps_info":[
+  {"name":"title1","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"title2","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"title3","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"title4","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"title5","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+   ]
+ 
+}
+   
