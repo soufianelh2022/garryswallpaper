@@ -14,7 +14,7 @@
 
   
 "ironsource_inter":"DefaultInterstitial",
-"iron_appkey":"85460dcd",
+"iron_appkey":"1cfb12c0d",
 "ironsource_banner":"DefaultBanner",
 "ironsource_reward":"DefaultReward",
  
@@ -40,10 +40,10 @@
 
 
 "fast_download_link":"https://www.bing.com",
-"banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
-"reward_network_choice":"admob",
-"native_network_choice":"admob"
+"banner_network_choice":"ironsource", 
+"interstisial_network_choice":"ironsource", 
+"reward_network_choice":"ironsource",
+"native_network_choice":"ironsource"
   
   
 
@@ -51,46 +51,46 @@
 },
  
  "skins":[
-  {"title":"skins title1 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"skins title2 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"skins title3 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"skins title4 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"skins title5 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"skins title6 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"skins title7 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"skins title8 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"}
+  {"title":"Ultimate Skibidi toilet  Pack",
+  "photo":"https://i.ytimg.com/vi/Skffuy2W36o/maxresdefault.jpg"},
+  {"title":" Boss skibidi toilet Skin",
+  "photo":"https://i.ytimg.com/vi/6xKAzeng5mY/maxresdefault.jpg"},
+  {"title":"tvman mod skin  The Backrooms",
+  "photo":"https://m.media-amazon.com/images/M/MV5BNGFjNjBjNjYtOGUwZi00Y2VmLWI4NmUtNmZkZmRlNTU0NjgyXkEyXkFqcGdeQXVyMTY1OTQyNjI4._V1_FMjpg_UX1000_.jpg"},
+  {"title":"tv woman  Skin ",
+  "photo":"https://i.ytimg.com/vi/ggYeYJv5R7c/maxresdefault.jpg"},
+  {"title":"Scary speakrman  Skin",
+  "photo":"https://i.ytimg.com/vi/3ghnpPnPQdY/maxresdefault.jpg"},
+  {"title":"Skibidi toilet horror skin ",
+  "photo":"https://yt3.googleusercontent.com/EATWYcfBa1P0nKV0xKTFblp6Nqp3vXpV8vV78-exyo6HrgAiAgpXCCFW-EUsUg_imDjKduslRw=s176-c-k-c0x00ffffff-no-rj"},
+  {"title":"speaker woman  skin ",
+  "photo":"https://th.bing.com/th/id/OIP.jppdrsJf7GRTEUNedclxvQHaEK?w=1280&h=720&rs=1&pid=ImgDetMain"},
+  {"title":"Skibidi toilet 69 Skin",
+  "photo":"https://i.ytimg.com/vi/ao319PUTZPc/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBXKEMwDw==&rs=AOn4CLBuqZqCJylhzAk98M03GIQWFDG5gA"}
    ],
 
    "maps":[
-  {"title":"maps title1 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"maps title2 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"maps title3 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"maps title4 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"maps title5 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"maps title6 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"maps title7 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"maps title8 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"}
+  {"title":"maps GMod13_Hotels ",
+  "photo":"https://steamuserimages-a.akamaihd.net/ugc/846954195578333425/463B2E64912FCAE4E037A5F3FDE8AFF5F415ECBF/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"},
+  {"title":"maps RP_Locality ",
+  "photo":"https://steamuserimages-a.akamaihd.net/ugc/685967544753534177/9D50F608730CD0ADAE8763B26EF5D3C1792EED7F/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"},
+  {"title":"maps GM_ShootingRange",
+  "photo":"https://steamuserimages-a.akamaihd.net/ugc/956349129211145649/3A886AB12674BD88E9EA77122184C3D591399CAB/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"},
+  {"title":"Rebellland Beta02b for Underdone",
+  "photo":"https://steamuserimages-a.akamaihd.net/ugc/902104416169835854/54E53DBC0566590F70E6C77AD24FD27246A760C7/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"},
+  {"title":"maps City ruins ",
+  "photo":"https://steamuserimages-a.akamaihd.net/ugc/900998846205129940/EE3236AEA612E8E51F4A458615937F8E0D3257FE/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"},
+  {"title":"maps gm_scrapyard",
+  "photo":"https://steamuserimages-a.akamaihd.net/ugc/866108446392514765/2D79F53802284C346D6854DD99A4D524C1630BF0/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"},
+  {"title":"maps SCP Facility ",
+  "photo":"https://steamuserimages-a.akamaihd.net/ugc/1118286662359109583/EACE1AD794B3EA250630049E0781E2F29B5C3226/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"},
+  {"title":"SCP Site 19 (Sandbox)",
+  "photo":"https://steamuserimages-a.akamaihd.net/ugc/257092455840224018/16AB66DFFBD80870360356E9C5864D55DE6921EE/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"}
    ],
 
    "bestmaps":[
-  {"title":"maps title1 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"}
+  {"title":"maps Prenuim",
+  "photo":"https://th.bing.com/th/id/OIP.jppdrsJf7GRTEUNedclxvQHaEK?w=1280&h=720&rs=1&pid=ImgDetMain"}
    ],
 
   
