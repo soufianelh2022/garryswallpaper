@@ -39,7 +39,7 @@
 
 
 
-"fast_download_link":"https://www.bing.com",
+"fast_download_link":"https://play.google.com/store/apps/details?id=com.garrysmood.assistanmod",
 "banner_network_choice":"admob", 
 "interstisial_network_choice":"admob", 
 "reward_network_choice":"admob",
@@ -95,11 +95,11 @@
 
   
   "more_apps_info":[
-  {"name":"title1","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"title2","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"title3","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"title4","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"title5","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+  {"name":"Gmod Mobile Game","package_name":"com.garrysmood.assistanmod","icon":"https://play-lh.googleusercontent.com/mwZ45eCpOQDWJ-rCYegDE1ny9700jeu3Lv9QVNJvHnAdhV_JzcQlBe_v5LElbLeZMg=w240-h480-rw"},
+  {"name":"Gmod APk ","package_name":"com.garrysmood.assistanmod","icon":"https://th.bing.com/th/id/R.161f76d155d68f05d2ceab230088392c?rik=c4OyF27HfqcUrQ&riu=http%3a%2f%2fassets1.ignimgs.com%2f2014%2f04%2f01%2fgarrys-mod-simplejpg-e320ea.jpg&ehk=cft5S%2f0UN6vFx6Dml5f%2bcV4ki9R%2fV2PV3vNYyJfn8Sg%3d&risl=&pid=ImgRaw&r=0"},
+  {"name":"garrys mod android ","package_name":"com.garrysmood.assistanmod","icon":"https://play-lh.googleusercontent.com/mwZ45eCpOQDWJ-rCYegDE1ny9700jeu3Lv9QVNJvHnAdhV_JzcQlBe_v5LElbLeZMg=w240-h480-rw"},
+  {"name":"gmod android","package_name":"com.garrysmood.assistanmod","icon":"https://iconape.com/wp-content/png_logo_vector/garrys-mod-logo.png"},
+  {"name":"garry mobile ","package_name":"com.garrysmood.assistanmod","icon":"https://iconape.com/wp-content/png_logo_vector/garrys-mod-logo.png"}
    ]
  
 }
