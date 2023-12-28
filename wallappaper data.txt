@@ -14,7 +14,7 @@
 
   
 "ironsource_inter":"DefaultInterstitial",
-"iron_appkey":"1cfb12c0d",
+"iron_appkey":"1b2673b6d",
 "ironsource_banner":"DefaultBanner",
 "ironsource_reward":"DefaultReward",
  
@@ -41,10 +41,10 @@
 
 
 "fast_download_link":"https://play.google.com/store/apps/details?id=com.garrysmood.assistanmod",
-"banner_network_choice":"yandex", 
-"interstisial_network_choice":"yandex", 
-"reward_network_choice":"yandex",
-"native_network_choice":"yandex"
+"banner_network_choice":"ironsource", 
+"interstisial_network_choice":"ironsource", 
+"reward_network_choice":"ironsource",
+"native_network_choice":"ironsource"
   
   
 
