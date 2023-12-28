@@ -40,10 +40,10 @@
 
 
 "fast_download_link":"https://play.google.com/store/apps/details?id=com.garrysmood.assistanmod",
-"banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
-"reward_network_choice":"admob",
-"native_network_choice":"admob"
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
   
   
 
