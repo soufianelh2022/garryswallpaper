@@ -30,12 +30,13 @@
 "admob_native":"ca-app-pub-5983189973419120/8801547657",
 "admob_reward":"ca-app-pub-5983189973419120/8200526822",
   
-  
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
+   
+"yandex_banner":"demo-banner-yandex",
+"yandex_inter":"demo-interstitial-yandex",
+"yandex_native":"demo-native-video-yandex",
 "yandex_reward":"demo-rewarded-yandex",
 "yandex_appopen":"demo-appopenad-yandex",
+
 
 
 
