@@ -42,8 +42,8 @@
 
 "fast_download_link":"https://play.google.com/store/apps/details?id=com.garrysmood.assistanmod",
 "banner_network_choice":"yandex", 
-"interstisial_network_choice":"yandex", 
-"reward_network_choice":"yandex",
+"interstisial_network_choice":"ironsource", 
+"reward_network_choice":"ironsource",
 "native_network_choice":"yandex"
   
   
