@@ -25,9 +25,9 @@
 "facebook_reward":"PLAYABLE#1444095999348608_1582552458836294",
   
 
-"admob_inter":"ca-app-pub-3940256099942544/1033173712",
-"admob_banner":"ca-app-pub-3940256099942544/6300978111",
-"admob_native":"ca-app-pub-3940256099942544/2247696110",
+"admob_inter":"ca-app-pub-5079091584646648/9856450313",
+"admob_banner":"ca-app-pub-5079091584646648/8219935013",
+"admob_native":"ca-app-pub-5079091584646648/4085248887",
 "admob_reward":"ca-app-pub-5079091584646648/2887523765",
   
    
